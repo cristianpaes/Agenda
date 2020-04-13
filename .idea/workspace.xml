@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="174086ae-8ae0-4343-a406-6a858ec16985" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/agenda.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/model-footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/model-header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/model-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agenda/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/agenda/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/agenda/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/agenda/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/model-header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/model-header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../projeto_agenda/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../projeto_agenda/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../projeto_agenda/.idea/modules.xml" beforeDir="false" />
@@ -4545,21 +4541,21 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1586698989334" />
-    <state width="1343" height="175" key="GridCell.Tab.0.bottom" timestamp="1586723656466">
+    <state width="1343" height="175" key="GridCell.Tab.0.bottom" timestamp="1586811191356">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="175" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1586723656466" />
-    <state width="1343" height="175" key="GridCell.Tab.0.center" timestamp="1586723656466">
+    <state width="1343" height="175" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1586811191356" />
+    <state width="1343" height="175" key="GridCell.Tab.0.center" timestamp="1586811191353">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="175" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1586723656466" />
-    <state width="1343" height="175" key="GridCell.Tab.0.left" timestamp="1586723656465">
+    <state width="1343" height="175" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1586811191353" />
+    <state width="1343" height="175" key="GridCell.Tab.0.left" timestamp="1586811191352">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="175" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1586723656465" />
-    <state width="1343" height="175" key="GridCell.Tab.0.right" timestamp="1586723656466">
+    <state width="1343" height="175" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1586811191352" />
+    <state width="1343" height="175" key="GridCell.Tab.0.right" timestamp="1586811191355">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="175" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1586723656466" />
+    <state width="1343" height="175" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1586811191355" />
   </component>
 </project>
