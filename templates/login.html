@@ -9,10 +9,13 @@
     <form action="submit" method="POST">{% csrf_token %}
         <div align="center">
             <label>Usuário:</label>
-            <input type="text" name="username">
+            <input type="text" name="username" size="23px">
+            <br>
             <label>Password:</label>
-            <input type="password" name="password">
+            <input type="password" name="password" size="23px">
+            <br>
             <button type="submit">Entrar</button>
+            <br>
         </div>
     </form>
 
